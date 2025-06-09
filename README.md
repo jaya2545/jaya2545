@@ -12,5 +12,6 @@ Graduated with a B.Tech in Electronics and Communication Engineering from SV Col
 ## Contact Me
 GitHub: https://github.com/jaya2545  
 Email: jayaprakash14414325@gmail.com  
+LinkedIn : https://www.linkedin.com/in/-jaya/
 Phone: +91 83318 29897  
 Thank you for visiting my profile. Feel free to explore my repositories and reach out for collaboration.
